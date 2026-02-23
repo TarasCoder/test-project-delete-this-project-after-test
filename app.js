@@ -1,2 +1,1 @@
-console.log('Edited code :)');
-console.log('added another line of code :)');
+console.log("Привіт, а це вже MASTER версія");
