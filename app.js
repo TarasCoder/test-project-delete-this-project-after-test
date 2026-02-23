@@ -1,3 +1,1 @@
-console.log('Edited code :)');
-console.log('added another line of code :)');
-edited file
+console.log("Привіт, це код з гілки SECOND");
